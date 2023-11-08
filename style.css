@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #FF9F1C;
+  text-align: center;
+  justify-content: center;
+}
+.my-title{
+  font-size: 46px;
+  color: #FFFFFF;
+  text-align:center;
+  justify-content: center;
+  border: solid 10px;
+  border-color:#2EC4B6;
+}
